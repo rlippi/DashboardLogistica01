@@ -7,7 +7,7 @@ Resumo do que foi utilizado:
 
 ### Qual o objetivo deste projeto?
 
-O objetivo desse projeto foi tratar uma base de dados em excel e criar um Dashboard utilizando o PowerBI apresentando as informações da área de logística de uma empresa. 
+O objetivo desse projeto foi tratar uma base de em arquivo de excel dentro do PowerQuery e criar um Dashboard utilizando o PowerBI apresentando as informações da área de logística de uma empresa. 
 
 Não há o passo a passo de como criar o Dashboard, nem de como tratar a base de dados, mas é possível abrir o arquivo por dentro do PowerBI para analisar as configurações de cada item do Dashboard.
 
